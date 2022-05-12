@@ -15,3 +15,10 @@
 - implement formulas in JS
 - create functions
 - integrate JS and html
+
+## Task #3:
+
+- define formulas
+- implement formulas in JS
+- create functions
+- integrate JS and html
