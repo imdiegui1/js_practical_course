@@ -21,4 +21,10 @@
 - define formulas
 - implement formulas in JS
 - create functions
+
+## Task #4:
+
+- define formulas
+- implement formulas in JS
+- create functions
 - integrate JS and html

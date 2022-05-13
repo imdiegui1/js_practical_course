@@ -8,11 +8,6 @@ const list1 = [
 
 
 function calculateAverage(list) {
-    //let sumList =0;
-//
-    //for (let i = 0; i < list.length; i++) {
-    //    sumList = sumList + list[i];
-    //};
 
     const sumList = list. reduce(
         function (acumulateValue = 0, newElement) {
